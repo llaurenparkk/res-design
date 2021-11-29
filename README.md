@@ -79,7 +79,7 @@
       <h4>Ginger Tea</h4>
       <p>Ginger assists with supporting the body's reaction to aggravation and is additionally notable for assisting with queasiness and assisting individuals with adapting to movement infection.</p>
 
-      <img src="images/teahero2.jpeg">
+![teahero2](https://user-images.githubusercontent.com/93554591/143908625-e1f458d2-4d4f-4993-bd7e-08578591c4b3.jpeg)
       
 
 
@@ -90,7 +90,7 @@
       
       <h2>Our Products</h2>
       <p>Tea Nation stands by the belief that natural affirmed teas and spices, developed without the utilization of agrochemicals like pesticides and composts, are by and large better for the climate, ranchers and tea consumers the same. We support producers who develop environmentally reasonable nurseries in far off areas all throughout the planet.</p>
-      <img src="images/teahero3.jpeg">
+![teahero3](https://user-images.githubusercontent.com/93554591/143908917-0e5084a5-5dd8-4979-b7b5-ac33847e8e5b.jpeg)
       
     </section>
 
@@ -115,7 +115,7 @@
     <p>Email: teanation@gmail.com</p>
     <p>Address: 1274 Tea Avenue, Harrisonburg VA, 22222</p>
     <section id="aside">
-      <img src="images/maps.png">
+<img width="250" alt="maps" src="https://user-images.githubusercontent.com/93554591/143909043-de63a3a7-e808-483f-b2d2-20e7cc9de25c.png">
     </section>
 
     
