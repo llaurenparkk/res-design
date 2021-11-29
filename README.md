@@ -60,8 +60,7 @@
     
       <h1>About</h1>
       <p>In the course of recent years, Tea Nation has kept on making natural, reviving teas propelled by the antiquated all encompassing recuperating theory of Ayurveda, and have extended their contributions to address explicit requirements with particular home grown equations mixed for both heavenly taste and invigorating advantage. <br> <br> Tea Nation has more than 25 tea mixes produced using 110 intriguing flavors and botanicals obtained from around the globe. They trust in the synergistic advantage of spices; supplementing them with captivating, great flavors – characteristics that make all of their teas interestingly them</p>
-![images](https://user-images.githubusercontent.com/93554591/143906655-d3aaa910-fb76-484e-876c-430b5892af9b.jpg)
-    </section>
+<img src="pics/orgin.jpg">
 
     <section id="types" class="col-md-6">
       <!-- PUT YOUR SECOND SECTION DIVS/COLUMNS HERE, this lists the types of teas with various headers -->
