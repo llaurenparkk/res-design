@@ -78,8 +78,7 @@
       <h4>Ginger Tea</h4>
       <p>Ginger assists with supporting the body's reaction to aggravation and is additionally notable for assisting with queasiness and assisting individuals with adapting to movement infection.</p>
 
-![teahero2](https://user-images.githubusercontent.com/93554591/143908625-e1f458d2-4d4f-4993-bd7e-08578591c4b3.jpeg)
-      
+<img src="pics/teahero2.jpeg"      
 
 
       
